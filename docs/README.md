@@ -48,7 +48,7 @@
 
 ---
 
-> 该`Wiki`由 [bindale324](https://github.com/bindale324) 维护，主要负责提供Mod开发过程中的API相关信息。
+> 该`Wiki`由 [misalignaddr](https://github.com/misalignaddr) 维护，主要负责提供Mod开发过程中的API相关信息。
 >
 > 对于游戏内容的解读，请您阅读友链[废土快递攻略百科](https://xjwiki.github.io/wastelandExpress/index.html)。
 >
